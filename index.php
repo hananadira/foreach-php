@@ -49,7 +49,7 @@
 
         a:link, a:visited {
     background-color: white;
-    color: white;
+    color: black;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
